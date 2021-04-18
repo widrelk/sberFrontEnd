@@ -1,0 +1,13 @@
+.Workplace > * {
+    display:block;
+    margin-top:10px;
+}
+
+.Workplace > *:first-child {
+    margin-top:0px;
+}
+
+.Workplace {
+    margin: 10px;
+    width: 250px;
+}
